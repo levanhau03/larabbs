@@ -10,20 +10,20 @@ class SeedCategoriesData extends Migration
     {
         $categories = [
             [
-                'name'        => '分享',
-                'description' => '分享创造，分享发现',
+                'name'        => 'Chia sẻ',
+                'description' => 'Chia sẻ sáng tạo, chia sẻ khám phá',
             ],
             [
-                'name'        => '教程',
-                'description' => '开发技巧、推荐扩展包等',
+                'name'        => 'Hướng dẫn',
+                'description' => 'Kỹ năng phát triển, các gói mở rộng được đề xuất, v.v.',
             ],
             [
-                'name'        => '问答',
-                'description' => '请保持友善，互帮互助',
+                'name'        => 'Hỏi & Đáp',
+                'description' => 'Hãy thân thiện và giúp đỡ lẫn nhau',
             ],
             [
-                'name'        => '公告',
-                'description' => '站点公告',
+                'name'        => 'Thông báo',
+                'description' => 'Thông báo trang web',
             ],
         ];
 

@@ -10,9 +10,9 @@ class CreateCategoriesTable extends Migration
     {
         Schema::create('categories', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name')->index()->comment('名称');
-            $table->text('description')->nullable()->comment('描述');
-            $table->integer('post_count')->default(0)->comment('帖子数');
+            $table->string('name')->index()->comment('Tên');
+            $table->text('description')->nullable()->comment('Miêu tả');
+            $table->integer('post_count')->default(0)->comment('Số bài viết');
         });
     }
 
