@@ -2618,16 +2618,16 @@
             "time": "2019-09-02T14:57:53+00:00"
         },
         {
-            "name": "summerblue/administrator",
+            "name": "levanhau03/administrator",
             "version": "6.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/summerblue/administrator.git",
+                "url": "https://github.com/levanhau03/administrator.git",
                 "reference": "c82715c9e0f26973c7fba00ad1dcf3a56eaf5368"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/summerblue/administrator/zipball/c82715c9e0f26973c7fba00ad1dcf3a56eaf5368",
+                "url": "https://api.github.com/repos/levanhau03/administrator/zipball/c82715c9e0f26973c7fba00ad1dcf3a56eaf5368",
                 "reference": "c82715c9e0f26973c7fba00ad1dcf3a56eaf5368",
                 "shasum": "",
                 "mirrors": [
@@ -2673,7 +2673,7 @@
                 }
             ],
             "description": "A database interface package for Laravel, modified!",
-            "homepage": "https://github.com/summerblue/administrator",
+            "homepage": "https://github.com/levanhau03/administrator",
             "keywords": [
                 "admin",
                 "administrator",
