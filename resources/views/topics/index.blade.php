@@ -18,12 +18,12 @@
         <ul class="nav nav-pills">
           <li class="nav-item">
             <a class="nav-link {{ active_class( ! if_query('order', 'recent')) }}" href="{{ Request::url() }}?order=default">
-              Câu trả lời cuối cùng
+              Trả lời mới
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link {{ active_class(if_query('order', 'recent')) }}" href="{{ Request::url() }}?order=recent">
-              Bản phát hành mới nhất
+              Bài viết mới
             </a>
           </li>
         </ul>
