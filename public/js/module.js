@@ -161,7 +161,7 @@ Module = (function() {
     'zh-CN': {}
   };
 
-  Module.locale = 'zh-CN';
+  Module.locale = 'vi';
 
   return Module;
 
