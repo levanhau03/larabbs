@@ -243,10 +243,13 @@ Uploader = (function(superClass) {
   Uploader.i18n = {
     'zh-CN': {
       leaveConfirm: '正在上传文件，如果离开上传会自动取消'
-    }
+    },
+    'vi': {
+      leaveConfirm: 'Tệp đang được tải lên. Nếu bạn rời khỏi quá trình tải lên, tệp sẽ tự động bị hủy'
+    }	
   };
 
-  Uploader.locale = 'zh-CN';
+  Uploader.locale = 'vi';
 
   return Uploader;
 
