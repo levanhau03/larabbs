@@ -2623,12 +2623,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/levanhau03/administrator.git",
-                "reference": "c82715c9e0f26973c7fba00ad1dcf3a56eaf5368"
+                "reference": "9d649638d19b97b2945d73780f946590b284e667"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/levanhau03/administrator/zipball/c82715c9e0f26973c7fba00ad1dcf3a56eaf5368",
-                "reference": "c82715c9e0f26973c7fba00ad1dcf3a56eaf5368",
+                "url": "https://api.github.com/repos/levanhau03/administrator/zipball/9d649638d19b97b2945d73780f946590b284e667",
+                "reference": "9d649638d19b97b2945d73780f946590b284e667",
                 "shasum": "",
                 "mirrors": [
                     {
