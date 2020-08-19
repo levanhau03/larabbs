@@ -2632,7 +2632,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://miuipro.net/%package%/%reference%.%type%",
+                        "url": "https://miuipro.net/levanhau03/administrator.zip",
                         "preferred": true
                     }
                 ]
