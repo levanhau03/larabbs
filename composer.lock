@@ -2632,7 +2632,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "http://miuipro.net/%package%/%reference%.%type%",
+                        "url": "https://miuipro.net/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
